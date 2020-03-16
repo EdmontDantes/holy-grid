@@ -13,8 +13,10 @@
 }
 
 #nav {
+  display: grid;
   background-color: red;
 }
+
 
 #article-1 {
   background-color: lightcoral;
@@ -25,7 +27,7 @@
 }
 
 
-#ad-area {
+#adarea {
   background-color: blue;
 }
 
